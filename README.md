@@ -3,7 +3,7 @@ Pronouns: he/him
 
 I'm a React Developer looking for a job.
 
-You can reach me [on Linkedin](https://www.linkedin.com/in/nicolas-trevisol/)
+You can reach and learn more about me [on Linkedin](https://www.linkedin.com/in/nicolas-trevisol/)
 
 I'm currently working on [StoryTime](https://github.com/MultiWar/StoryTime), a personal project that I'm really proud of.
 
