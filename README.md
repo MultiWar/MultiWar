@@ -7,6 +7,8 @@ You can reach and learn more about me [on Linkedin](https://www.linkedin.com/in/
 
 My latest project (unfinished) is [StoryTime](https://github.com/MultiWar/StoryTime), a personal project that I'm really proud of.
 
+You can catch my studies in [this repo](https://github.com/MultiWar/Estudos)
+
 <!--
 **MultiWar/MultiWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
